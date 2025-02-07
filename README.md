@@ -4,7 +4,7 @@ bepinex, but for women 🍑 making renpy mods easy as pie
 
 # About PeachPy 🍰
 
-PeachPy is a mod loader for all RenPy games! There is a **(1)** pretty app to manage, install, and remove mods, **(2)** an sdk for mod makers,**(3)** a web server for hosting mod lists, **(4)** and a whole lot of example mods (see below).
+PeachPy is a mod loader for all RenPy games! There is a **(1)** pretty app to manage, install, and remove mods, **(2)** an sdk for mod makers, **(3)** a web server for hosting mod lists, **(4)** and a whole lot of example mods (see below).
 
 **If you are a player**, please see below to learn how to install PeachPy and a mod! Don't worry - PeachPy will do all of the hard work for you. **If you are a mod creator**, please see the [Making Your Mods 🍳](#making-your-mods-) section below.
 
@@ -19,7 +19,8 @@ If you want to make a mod for a RenPy game (most visual novels), PeachPy makes i
 - Make mod creation an easy-to-learn uniform standard
 - Easy for non-technical users to get started
 - Player has to do literally no work to play mods
-- Shared code library for repeated, common functions
+- Let people update your mod easily
+- Shared code library for common functions
 - If using the public mod list, increased visibility
 - Helpful community for learning and debugging
 
