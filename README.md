@@ -25,10 +25,16 @@ If you want to make a mod for a RenPy game (most visual novels), PeachPy makes i
 - Helpful community for learning and debugging
 
 ### Documentation and How-To's
-To-do the how-to..
+
+In three steps, this is how you use PeachPy:
+1. Use PeachPy to export your game into a project.
+2. Edit or create files, resources, etc.
+3. Use PeachPy to bundle your project into a mod
+
+Of course you will want more detailed instructions than this! 😅 Soon..
 
 ### Example Mods for Various Games
-Here I provide examples of mods for various games using PeachPy. These mods are mostly made to help you get started developing, rather than playing with, but they can be used for that too if you really want to~
+Here I provide examples of mods for various games using PeachPy. These mods are mostly made to help you get started developing, rather than playing with, but they are on the mod repo for that too if you really want to~
 - [Repurpose]() Mod Example can be found [here]()
 - [Class of 09]() Mod Example can be found [here]()
 - [DDLC]() Mod Example can be found [here]()
