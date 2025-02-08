@@ -25,7 +25,6 @@ If you want to make a mod for a RenPy game (most visual novels), PeachPy makes i
 - Helpful community for learning and debugging
 
 ### Documentation and How-To's
-
 In three steps, this is how you use PeachPy:
 1. Use PeachPy to export your game into a project.
 2. Edit or create files, resources, etc.
